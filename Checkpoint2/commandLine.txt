@@ -1,0 +1,4 @@
+cd E:\csharp-checkpoint2-master\csharp-checkpoint2-master\Checkpoint2\bin\Debug\netcoreapp3.1
+Checkpoint2 events -p 3 -b 2018-01-01 -e 2020-05-01
+Checkpoint2 cursus -q -n HTML/CSS
+Checkpoint2 cursus -q -n HTML/CSS
